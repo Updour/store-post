@@ -1,0 +1,24 @@
+//master
+1. barang,
+2. kategori
+3. satuan
+4. suplayer
+5. customers
+// laporan
+1. laporan pembelian
+2. laporan penjualan
+3. return suplayer
+4. mutasi 
+5. return customer
+//user
+1. login
+2. logout
+3. 
+	
+//database
+id barang
+nama barang 
+kategori = picker 
+
+//kategori
+1. nama ka
